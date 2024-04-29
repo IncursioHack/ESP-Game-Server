@@ -74,5 +74,5 @@ Exemplo:  http://172.0.0.1
 
 ## Reference
 * Um agradecimento especial para o @bmorcelli que ajudou imensamente com o WIFI.
-* Todos os direitos dos emuladores e a fonte das informações foram adquiridos da equipe do @EmulatorJS.
+* Todos os direitos dos emuladores e a fonte das informações pertencem a equipe @EmulatorJS.
 
