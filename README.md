@@ -3,6 +3,14 @@
 
 ![SDLogo](https://github.com/IncursioHack/ESP-Game-Server/blob/main/img/EGS-ImagemPrincipal.png)
 
+Supported Games:
+
+* Playstation: Playstation 1
+* Nintendo: NES, SNES, N64, GameBoy Advance, GameBoy.
+* Sega: Master System, MegaDrive(Genesis), Game Gear, Sega Saturn.
+* Atari: 2600, 5200.
+* Others: Arcade, MAME.
+
 ## History
 [EN] I have always been passionate about classic games, I have a collection of different consoles and I always wanted to be able to have access to games wherever I went. That's why I decided to put together 2 incredible ideas to create the ESP Game Server, allowing you to play some classic games in the browser over the WiFi network on almost any device.
 
@@ -50,14 +58,13 @@ Exemplo:  http://172.0.0.1
 
    [PT-BR] Divirta-se!
    
-[EN] Ps.: At the bottom of the emulator there are several settings, options to save the game, change controls and the like.
-
-[PT-BR] Obs.: Na parte inferior do emulador possui diversas configurações, opções para salvar o jogo, alterar os controles e afins.
+* [EN] Ps.: At the bottom of the emulator there are several settings, options to save the game, change controls and the like.
+* [PT-BR] Obs.: Na parte inferior do emulador possui diversas configurações, opções para salvar o jogo, alterar os controles e afins.
 
 ## A little more / Um pouco mais [EN / PT-BR]
 
-[EN] Some images of the emulator working, control configurations and much more.
-[PT-BR] Algumas imagens do emulador funcionando, configurações de controles e muito mais.
+* [EN] Some images of the emulator working, control configurations and much more.
+* [PT-BR] Algumas imagens do emulador funcionando, configurações de controles e muito mais.
 
 
 ![EmulatorEGS](https://github.com/IncursioHack/ESP-Game-Server/blob/main/img/EGS-Emulador.png)
@@ -65,11 +72,7 @@ Exemplo:  http://172.0.0.1
 
 ![JoystickEGS](https://github.com/IncursioHack/ESP-Game-Server/blob/main/img/EGS-Controles.png)
 
-
-Um agradecimento especial para o @bmorcelli que ajudou imensamente com o WIFI.
-
-Todos os direitos dos emuladores e a fonte das informações foram adquiridos da equipe do @EmulatorJS.
-
-
-
+## Reference
+* Um agradecimento especial para o @bmorcelli que ajudou imensamente com o WIFI.
+* Todos os direitos dos emuladores e a fonte das informações foram adquiridos da equipe do @EmulatorJS.
 
